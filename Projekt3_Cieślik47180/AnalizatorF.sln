@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalizatorF", "AnalizatorF\AnalizatorF.csproj", "{9B519FE0-970F-43C4-A9C9-6962F4FA52FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B519FE0-970F-43C4-A9C9-6962F4FA52FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B519FE0-970F-43C4-A9C9-6962F4FA52FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B519FE0-970F-43C4-A9C9-6962F4FA52FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B519FE0-970F-43C4-A9C9-6962F4FA52FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B6D2488-9C33-4894-90B3-B8985B8A109A}
+	EndGlobalSection
+EndGlobal
